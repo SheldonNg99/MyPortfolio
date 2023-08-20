@@ -50,21 +50,19 @@ const Experience = () => {
             '/>
             <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                 <Details 
-                    position="Software Engineer" company="Google"
-                    companyLink="www.google.com"
-                    time="2022-Present" address="Mountain View, CA"
-                    work="Worked on a team responsible for developing new features for Google's 
-                    search engine, including improving the accuracy and relevance of search results and 
-                    developing new tools for data analysis and visualization."
+                    position="Software Engineer" company="YGL Convergence Berhad"
+                    companyLink="https://www.yglworld.com/"
+                    time="January 2022 - Present" address="No 35, Jalan Scotland, Pulau Pinang"
+                    work="For the past 2 years,I have been working on implementing and customizing Enterprise Resource Planning (ERP) systems (Windows Application and Website). 
+                    I have hands-on experience in ERP modules such as Finance, Sales, and Purchase, and have delivered tailored solutions for clients across various industries."
                 />
-
+                
                 <Details 
-                    position="Software Engineer" company="Google"
-                    companyLink="www.google.com"
-                    time="2022-Present" address="Mountain View, CA"
-                    work="Worked on a team responsible for developing new features for Google's 
-                    search engine, including improving the accuracy and relevance of search results and 
-                    developing new tools for data analysis and visualization."
+                    position="System Validation Engineer Trainee" company="Intel"
+                    companyLink="https://www.intel.com/content/www/us/en/homepage.html"
+                    time="May 2021 - August 2021" address="Bayan Lepas, Pulau Pinang"
+                    work="As a System Validation Intern at Intel, I specialize in automating THC (Touch Host Controller) test content. 
+                    I have a strong understanding of software development processes and experience in programming languages and tools such as Python, C++, and Git."
                 />
             </ul>
         </div>
