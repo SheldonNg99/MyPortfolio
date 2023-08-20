@@ -47,7 +47,7 @@ const about = () => {
                 <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                     <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
                     <p className='font-medium'>
-                    Greetings! I&apos;m Kai, a dedicated software engineer on a mission to craft captivating, efficient, and user-centric digital experiences. 
+                    Greetings!!! I&apos;m Kai, a dedicated software engineer on a mission to craft captivating, efficient, and user-centric digital experiences. 
                     With 2 years of experience in the field. I am always looking for new and innovative ways to bring my clients&apos; visions to life.
                     </p>
                     <p className='my-4 font-medium'>
