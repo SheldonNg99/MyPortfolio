@@ -47,11 +47,19 @@ const Education = () => {
             md:w-[2px] md:left-[30px] xs:left-[20px]'/>
             <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                 <Details 
-                    type="Bachelor Of Science In Computer Science"
-                    time="2016-2020"
-                    place="Massachusetts Institute Of Technology (MIT)"
-                    info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
-                    Intelligence."
+                    type="Bachelor Of Science In Computing"
+                    time="January 2020 - December 2021"
+                    place="University Of Greenwich"
+                    info="Bachelor of Science in Computing has empowered me with an in-depth understanding of advanced computational principles, software engineering methodologies
+                    , and cutting-edge technologies, fostering a holistic approach to crafting innovative digital solutions."
+                />
+
+                <Details 
+                    type="Diploma In Computer Science"
+                    time="August 2017 - December 2019"
+                    place="SEGi College"
+                    info="Diploma in Computer Science has equipped me with a comprehensive foundation in the intricate world of computing
+                    , enabling me to master essential programming languages, algorithms, and problem-solving techniques."
                 />
             </ul>
         </div>
