@@ -47,18 +47,18 @@ const about = () => {
                 <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
                     <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
                     <p className='font-medium'>
-                    Hi, I'm CodeBucks, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
-                    and user-centered digital experiences. With 4 years of experience in the field. I am always looking for 
-                    new and innovative ways to bring my clients' visions to life.
+                    Greetings! I&apos;m Kai, a dedicated software engineer on a mission to craft captivating, efficient, and user-centric digital experiences. 
+                    With 2 years of experience in the field. I am always looking for new and innovative ways to bring my clients&apos; visions to life.
                     </p>
                     <p className='my-4 font-medium'>
-                    I believe that design is about more than just making things look pretty – it's about solving problems and 
-                    creating intuitive, enjoyable experiences for users. 
+                    Over the past 24 months, my focus has revolved around the intricate world of Enterprise Resource Planning (ERP) systems , where I&apos;ve 
+                    adeptly navigated through pivotal modules such as Finance, Sales, and Purchase, 
+                    enabling me to orchestrate bespoke solutions that harmonize seamlessly with various industries.
                     </p>
                     <p className='font-medium'>
-                    Whether I'm working on a website, mobile app, or 
-                    other digital product, I bring my commitment to design excellence and user-centered thinking to 
-                    every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
+                    Outside the realm of coding, my curiosity finds solace in language acquisition.
+                    With fluency in an impressive array of five languages—Chinese, English, Bahasa Melayu, Japanese, and Cantonese
+                    I look forward to the opportunity to bring my skills and passion to your next project.
                     </p>
                 </div>
 
